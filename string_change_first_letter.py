@@ -39,6 +39,7 @@ def prod(x,y):
         return x*y
 
 
+
 list_input=map(int,raw_input('请输入数字:').split(','))
 
 
