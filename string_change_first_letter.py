@@ -21,6 +21,7 @@ test_str=['adam', 'LISA', 'barT']
 #把所有名字的字幕都转化为小写
 low_str=map(lower, test_str)
 
+
 #把每个名字的首字母转化为大写
 result=map(capitalize, low_str)
 
