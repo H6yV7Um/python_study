@@ -26,6 +26,10 @@
           <option name="url" value="git@github.com:Show-Me-the-Code/python.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.code.oa.com/Magic_Cube/DMQ_MTT_CoolReadStat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Python" />
